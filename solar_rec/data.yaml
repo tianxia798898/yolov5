@@ -1,0 +1,8 @@
+train: E:\ProjectSource\yolov5-master\train_own_data\solar_rec\train\images  # train images (relative to 'path') 128 images
+val: E:\ProjectSource\yolov5-master\train_own_data\solar_rec\valid\images  # val images (relative to 'path') 128 images
+# number of classes
+nc: 1
+
+# class names
+names: [ 'rec']
+
